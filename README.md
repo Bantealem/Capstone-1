@@ -1,12 +1,12 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Here is a link to my loom video [Project description video](https://www.loom.com/share/09d096e5d43442dab33e23fe8e41cae4)
+
+Here is a link to my loom video [Project description video]()
 
 # First Capstone Project: Responsive Restaurant Website
 
-![screenshot](./images/readme-img.png)
+![screenshot](./images/readme.jpg)
 
-> This is my capstone project built with HTML-CSS-BOOTSTRAP-JAVASCRIPT. My love for restaurants made me develop this project along that line. The website is about a popular restuarant called Foodland restaurant. It features a list of dishes, an about page and partner sections. Please have a look at the live demo and let me know what you think 😊.
+> This is my capstone project built with HTML-CSS-BOOTSTRAP-JAVASCRIPT. My love for restaurants made me develop this project along that line. The website is about a popular restuarant called YOD Abbisinia restaurant. It features a list of dishes, an about page and partner sections. Please have a look at the live demo and let me know what you think 😊.
 
 ## Built With
 
@@ -28,8 +28,8 @@ you can clone the repository by using the command below and run the "npm install
 ### Setup
 
 ```cmd
-git clone git@github.com:Elijahdre/Capstone-one.git
-cd ./Capstone-one
+git clone git@github.com:Bantealem/Capstone1.git
+cd ./Capstone1
 npm install
 npm run build
 npm start
@@ -41,7 +41,6 @@ If you are non a technical person you can download the zip file.
 - Choose the option 'Download Zip' and wait until it download.
 - Then you need to decompress it.
 - You will need to have Zip compress file software installed in your computer. If you don't have it you can download it from here
-  [`https://www.7-zip.org/download.html`](https://www.7-zip.org/download.html)
 - Do double click on the Capstone-1.zip and choose a folder where to place all the decompressed files.
 - Once you are done decompressing, you can open the created folder.
 - In it you can double click on the index.html file and choose a browser to open it (For example google Chrome Browser).
