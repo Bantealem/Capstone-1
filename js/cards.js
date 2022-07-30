@@ -25,8 +25,7 @@ const ProgramDetails = [
   },
   {
     title: 'Drinks',
-    description:
-      'Tella, Borde, Shamita, Korefe, Cheka, Tej, Ogol, Booka, and Keribo are among the popular alcoholic beverages in the country.',
+    description:'Tella, Borde, Shamita, Korefe, Cheka, Tej, Ogol, Booka, and Keribo are among the popular alcoholic beverages in the country.',
     icon: './images/cc.svg',
   },
 ];
@@ -42,48 +41,45 @@ ProgramDetails.forEach((program) => {
   document.querySelector('.content').innerHTML += card;
 });
 
+
 const Speakers = [
   {
     image: './images/food13.jpg',
     name: 'Tibs',
-    designation: 'Made from meat',
+    designation: 'Always available:It is made from meat.',
     description:
       'It is made from meat.',
   },
   {
     image: './images/food21.jpg',
     name: 'Tegabino',
-    designation: 'Made from a powder',
+    designation: 'It may sometomes:Made from a powder',
     description:
       'Made from a bee powder.',
   },
   {
     image: './images/food15.jpg',
     name: 'Shiro',
-    designation: 'Made from bee powder',
-    description:
-      't Most Ethiopians daily food',
+    designation: 'Made from bee powder:it is  Most Ethiopians daily food',
+    description: 'it is  Most Ethiopians daily food',
   },
   {
     image: './images/food18.png',
     name: 'Kitfo',
-    designation: 'Made from meat',
-    description:
-      'It is Gurage ethinic group traditional food.',
+    designation: 'Made from meat:It is Gurage ethinic group traditional food',
+    description:'It is Gurage ethinic group traditional food.',
   },
   {
     image: './images/food20.jpg',
     name: 'Doro wot',
-    designation: 'Made from chicken',
-    description:
-      'It is Amhara Ethinic group traditional food.',
+    designation: 'Made from chicken: It is Amhara Ethinic group traditional food.',
+    description:'It is Amhara Ethinic group traditional food.',
   },
   {
     image: './images/food19.jpg',
     name: 'Key wot',
-    designation: 'meat',
-    description:
-      'It is normal food made from meat',
+    designation: 'meat:It is normal food made from meat',
+    description:'It is normal food made from meat',
   },
 ];
 
