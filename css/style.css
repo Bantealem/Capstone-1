@@ -106,7 +106,7 @@ header h3 {
 
 .heading {
   padding: 2rem;
-  background-image: url("../images/backgroundImage.jpg");
+  background-image: url("../images/background.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -163,7 +163,6 @@ header h3 {
 .line-break {
   width: 45px;
   height: 0.3rem;
-  background-color: #ec5242;
   margin: auto auto 1rem auto;
 }
 
@@ -282,7 +281,7 @@ em {
 .speaker-img img {
   width: 100%;
   height: auto;
-  filter: drop-shadow(-30px -10px 4px #c0c0c0);
+
 }
 
 .speaker-details {
@@ -549,12 +548,6 @@ input[type="email"] {
 }
 
 @media screen and (min-width: 768px) {
-  .modal-form {
-    backdrop-filter: blur(10px);
-  }
-}
-
-@media screen and (min-width: 768px) {
   header .menu {
     display: none;
   }
@@ -592,7 +585,7 @@ input[type="email"] {
   }
 
   .mobile-menu {
-    backdrop-filter: blur(5px);
+    display: none;
   }
 
   .web-menu {
