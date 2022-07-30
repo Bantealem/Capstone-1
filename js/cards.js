@@ -25,7 +25,7 @@ const ProgramDetails = [
   },
   {
     title: 'Drinks',
-    description:'Tella, Borde, Shamita, Korefe, Cheka, Tej, Ogol, Booka, and Keribo are among the popular alcoholic beverages in the country.',
+    description: 'Tella, Borde, Shamita, Korefe, Cheka, Tej, Ogol, Booka, and Keribo are among the popular alcoholic beverages in the country.',
     icon: './images/cc.svg',
   },
 ];
@@ -66,19 +66,19 @@ const Speakers = [
     image: './images/food18.png',
     name: 'Kitfo',
     designation: 'Made from meat',
-    description:'It is Gurage ethinic group traditional food.',
+    description: 'It is Gurage ethinic group traditional food.',
   },
   {
     image: './images/food20.jpg',
     name: 'Doro wot',
     designation: 'Made from chicken',
-    description:'It is Amhara Ethinic group traditional food.',
+    description: 'It is Amhara Ethinic group traditional food.',
   },
   {
     image: './images/food19.jpg',
     name: 'Key wot',
     designation: 'meat',
-    description:'It is normal food made from meat',
+    description: 'It is normal food made from meat',
   },
 ];
 
