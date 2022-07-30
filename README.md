@@ -1,6 +1,6 @@
 
 
-Here is a link to my loom video [Project description video]()
+Here is a link to my loom video [Project description video](https://www.loom.com/share/289377aba29941d1a7e8d9732dc6aad7)
 
 # First Capstone Project: Responsive Restaurant Website
 
