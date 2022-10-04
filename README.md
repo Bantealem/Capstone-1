@@ -23,7 +23,7 @@ Here is a link to my loom video [Project description video](https://www.loom.com
 
 you can clone the repository by using the command below and run the "npm install" command to install the necessary tools
 
-[`https://github.com/Bantealem/Capstone-1']
+ https://github.com/Bantealem/Capstone-1
 
 ### Setup
 
