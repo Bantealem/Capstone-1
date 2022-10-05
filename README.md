@@ -15,8 +15,6 @@
 
 ## Live Demo (Deployed on GitHub Pages)
 
-[!GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blueviolet)]
-
 [Live Demo Link](https://bantealem.github.io/Capstone-1/)
 
 ## Live Demo (Video Using Loom)
