@@ -21,28 +21,6 @@
 
 Here's a link to the recorded video [Video of The Project](https://www.loom.com/share/289377aba29941d1a7e8d9732dc6aad7), which I explain all the features and customizations I added to the project.
 
-## Mobile-Screenshots 
-
-![Photo_image](/images/img1.PNG)
-
-![Photo_image](/images/img2.PNG)
-
-![Photo_image](/images/img3.PNG)
-
-![Photo_image](/images/img4.PNG)
-
-![Photo_image](/images/img5.PNG)
-
-## Desktop-Screenshots
-
-![Photo_image](/images/img6.PNG)
-
-![Photo_image](/images/img7.PNG)
-
-![Photo_image](/images/img8.PNG)
-
-![Photo_image](/images/img9.PNG)
-
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
