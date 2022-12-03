@@ -4,7 +4,7 @@
 
 # Bantealem Capstone Project One
 
-> This is my capstone project built with HTML-CSS-BOOTSTRAP-JAVASCRIPT. My love for restaurants made me develop this project along that line. The website is about a popular restuarant called YOD Abbisinia restaurant. It features a list of dishes, an about page and partner sections. Please have a look at the live demo and let me know what you think 😊.
+> This is my capstone project built with HTML-CSS-BOOTSTRAP-JAVASCRIPT. Ii is about online web develoment courses. The website is made up of two pages home page and about page. It features a list of dishes, an about page and partner sections. Please have a look at the live demo and let me know what you think 😊.
 
 ## Built With ⚙️
 
