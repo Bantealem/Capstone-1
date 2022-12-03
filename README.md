@@ -15,14 +15,6 @@
 
 ## Screenshot
 
-### Small Devices
-[![Small Devices Preview](./assets/images/screenshots/small-devices.png)](./assets/images/screenshots/small-devices.png)
-
-### Medium Devices
-[![Medium Devices Preview](./assets/images/screenshots/mobiles.png)](./assets/images/screenshots/mobiles.png)
-
-### Desktop Devices 
-[![Desktop Devices Preview](./assets/images/screenshots/desktop.png)](./assets/images/screenshots/desktop.png)
 
 ## Live Demo (Deployed on GitHub Pages)
 
