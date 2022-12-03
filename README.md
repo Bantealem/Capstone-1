@@ -13,6 +13,17 @@
 - [x] Code Editor: VS Code
 - [x] Bootstrap
 
+## Screenshot
+
+### Small Devices
+[![Small Devices Preview](./assets/images/screenshots/small-devices.png)](./assets/images/screenshots/small-devices.png)
+
+### Medium Devices
+[![Medium Devices Preview](./assets/images/screenshots/mobiles.png)](./assets/images/screenshots/mobiles.png)
+
+### Desktop Devices 
+[![Desktop Devices Preview](./assets/images/screenshots/desktop.png)](./assets/images/screenshots/desktop.png)
+
 ## Live Demo (Deployed on GitHub Pages)
 
 [Live Demo Link](https://bantealem.github.io/Capstone-1/)
