@@ -4,10 +4,10 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="stylesheet" href="../assets/css/style.css" />
     <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
-    <script src="./assets/js/index.js" defer></script>
-    <title>Learn Web | Home</title>
+    <script src="../assets/js/index.js" defer></script>
+    <title>Learn Web | About</title>
   </head>
   <body>
     <!--======================== Header =========================!-->
@@ -20,101 +20,85 @@
         <li><a href="#">Logout</a></li>
       </ul>
     </header>
-    <section class="hero-and-header-section">
+    <section class="about-hero-and-header-section">
       <header class="header">
-        <a href="#" class="logo"
-          ><img src="./assets/images/logo.png" alt="logo"
-        /></a>
+        <a href="../index.html" class="logo">
+          <img src="../assets/images/logo.png" alt="logo" />
+        </a>
         <nav class="navbar">
           <ul class="nav-links">
+            <li class="nav-item"><a href="../index.html">Home</a></li>
             <li class="nav-item active-page">
-              <a href="./index.html">Home</a>
+              <a href="./about.html">About</a>
             </li>
-            <li class="nav-item"><a href="./pages/about.html">About</a></li>
-            <li class="nav-item"><a href="#speaker">Speakers</a></li>
             <li class="nav-item"><a href="#partner">Partner</a></li>
           </ul>
         </nav>
-        <div class="nav-mobile-btn container-fluid">
+        <div class="nav-mobile-btn">
           <ion-icon name="menu" class="nav-icon"></ion-icon>
           <ion-icon name="close" class="nav-icon"></ion-icon>
         </div>
       </header>
-
-      <p class="hero-paragraph">"Hello, Sharing World"</p>
-      <h1 class="hero-heading">Web Development Global Summit 2022</h1>
-      <div class="hero-description">
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit ad
-          laudantium voluptatum, modi natus perspiciatis. Lorem ipsum dolor sit
-          amet consectetur adipisicing elit.
+      <div class="about-flexbox container">
+        <p class="about-hero-paragraph">"Hello, Sharing World"</p>
+        <h1 class="about-hero-heading">Web Development Global Summit 2022</h1>
+        <div class="about-hero-description">
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit ad
+            laudantium voluptatum, modi natus perspiciatis. Lorem ipsum dolor
+            sit amet consectetur adipisicing elit.
+          </p>
+        </div>
+        <p class="about-contact">
+          Please contact us per email for any further questions about Dev Global
+          Summit 2022!
         </p>
-      </div>
-      <h1 class="hero-date">2022.10.20(Thu) ~ 21(Fri)</h1>
-      <p class="hero-location">
-        @ Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      </p>
-    </section>
-
-    <!--======================== Main Program =========================!-->
-    <section class="main-program" id="program">
-      <h1 class="program-title">Main Program</h1>
-      <hr class="divider" />
-      <div class="flexbox">
-        <div class="card">
-          <ion-icon name="microphone" class="program-icon"></ion-icon>
-          <h3>Lecture</h3>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, ipsa?
-          </p>
-        </div>
-        <div class="card">
-          <ion-icon name="image" class="program-icon"></ion-icon>
-          <h3>Dev Exhibition</h3>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, ipsa?
-          </p>
-        </div>
-        <div class="card">
-          <ion-icon name="chatboxes" class="program-icon"></ion-icon>
-          <h3>forum</h3>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, ipsa?
-          </p>
-        </div>
-        <div class="card">
-          <ion-icon name="desktop" class="program-icon"></ion-icon>
-          <h3>Workshop</h3>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, ipsa?
-          </p>
-        </div>
-        <div class="card">
-          <ion-icon name="snow" class="program-icon"></ion-icon>
-          <h3>Dev Ignite</h3>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, ipsa?
-          </p>
+        <div class="email-center">
+          <a href="#" class="about-email">devsummit2022@gmail.com</a>
         </div>
       </div>
-      <button type="button" class="btn-primary">
-        Join Dev Global Summit 2022
-      </button>
-      <a href="#" class="whole-program">See the whole program</a>
     </section>
 
-    <!--======================== Featured Speakers =========================!-->
-    <section class="featured-speakers container-fluid" id="speaker">
-      <h1 class="speaker-title">Featured Speakers</h1>
-      <hr class="divider" />
-      <div class="row" id="speakers"></div>
-      <button type="button" class="btn-outline" id="btn-more">
-        More <ion-icon name="arrow-dropdown" class="btn-icon"></ion-icon>
-      </button>
+    <!--======================== About Logo =========================!-->
+    <section class="about-logo">
+      <div class="about-container">
+        <h1>Web Development Global Summit 2020 Logo</h1>
+        <hr class="divider" />
+        <p>
+          Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur,
+          adipisicing elit. Excepturi aliquid aperiam debitis accusantium.
+        </p>
+        <div class="logo-border">
+          <img src="../assets/images/logo.png" alt="Logo" />
+        </div>
+      </div>
+      <hr />
+      <div class="past-summit container">
+        <h1>See the past Web Development Global Summit</h1>
+        <hr class="divider" />
+        <p>
+          Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur,
+          adipisicing elit. Excepturi aliquid aperiam debitis accusantium.
+        </p>
+        <div class="row data-center">
+          <div class="col-12 col-md-6">
+            <div class="image-2019">
+              <h1>2019</h1>
+              <p>Dev Global Summit 2019 in Buenos Aires</p>
+            </div>
+          </div>
+          <div class="col-12 col-md-6">
+            <div class="image-2015">
+              <h1>2015</h1>
+              <p>Dev Global Summit 2015 in Warsaw</p>
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
 
     <!--======================== Partner =========================!-->
-    <section class="partner" id="partner">
+    <section class="about-partner" id="partner">
       <h1>Partner</h1>
       <hr class="divider" />
       <div class="partner-logos container">
@@ -198,15 +182,15 @@
       </div>
     </section>
 
-    <!--======================== footer =========================!-->
-    <footer class="footer container">
-      <img src="./assets/images/logo.png" alt="logo" />
+    <!--======================== Footer =========================!-->
+    <footer class="about-footer">
+      <img
+        src="../assets/images/about-logo.png"
+        alt="logo"
+        class="desktop-logo"
+      />
+      <img src="../assets/images/logo.png" alt="logo" class="mobile-logo" />
       <p>&copy; 2022 Web Development Courses, Some Right Reserved.</p>
     </footer>
-    <div class="container">
-      <button type="button" class="btn-outline less-btn" id="btn-less">
-        Less <ion-icon name="arrow-dropup" class="btn-icon"></ion-icon>
-      </button>
-    </div>
   </body>
 </html>
