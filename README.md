@@ -18,9 +18,8 @@
 
 ## Live Demo (Deployed on GitHub Pages)
 
-[Live Demo Link](https://bantealem.github.io/Capstone-1/)
+[Live Demo Link](https://graceful-babka-5446c0.netlify.app/)
 
-## Live Demo (Video Using Loom)
 
 Here's a link to the recorded video [Video of The Project](https://www.loom.com/share/289377aba29941d1a7e8d9732dc6aad7), which I explain all the features and customizations I added to the project.
 
