@@ -4,7 +4,7 @@
 
 # Bantealem Capstone Project One
 
-> This is my capstone project built with HTML-CSS-BOOTSTRAP-JAVASCRIPT. Ii is about online web develoment courses. The website is made up of two pages home page and about page. It features a list of dishes, an about page and partner sections. Please have a look at the live demo and let me know what you think 😊.
+> This is my capstone project built with HTML-CSS-BOOTSTRAP-JAVASCRIPT. Ii is about online web develoment conference. The website is made up of two pages home page and about page. It features a list of dishes, an about page and partner sections. Please have a look at the live demo and let me know what you think 😊.
 
 ## Built With ⚙️
 
@@ -21,7 +21,7 @@
 [Live Demo Link](https://graceful-babka-5446c0.netlify.app/)
 
 
-Here's a link to the recorded video [Video of The Project](https://www.loom.com/share/289377aba29941d1a7e8d9732dc6aad7), which I explain all the features and customizations I added to the project.
+
 
 ## Getting Started
 
